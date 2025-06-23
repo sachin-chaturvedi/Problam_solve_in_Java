@@ -967,9 +967,8 @@ public class leetcode {
   }
 
 
- public static boolean areSentencesSimilar(String sentence1, String sentence2){
 
-  }
+  
   public static void main(String[] args) {
 
     
